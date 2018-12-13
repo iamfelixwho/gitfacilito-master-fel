@@ -1,0 +1,11 @@
+commit 705ea23143a54a5518e890fb538117adf1aef4b3
+Author: felix rivas <iamfelixwhofelix@gmail.com>
+Date:   Thu Dec 13 13:55:22 2018 -0400
+
+    pinterest S.M. added on index.html
+
+commit 20d0601c74dc6a4cf533fd9633fbbcf32a28e2bc
+Author: felix rivas <iamfelixwhofelix@gmail.com>
+Date:   Wed Dec 12 23:00:47 2018 -0400
+
+    repo initialized and all of the files were tracked
